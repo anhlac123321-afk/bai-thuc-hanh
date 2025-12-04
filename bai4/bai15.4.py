@@ -1,0 +1,5 @@
+print("ho va ten:tran nhat anh")
+print("Mssv:245752021610069")
+chuoi = input("Nhập các từ tiếng Anh: ").split()
+chuoi.sort()
+print("Theo thứ tự từ điển:", " ".join(chuoi))
